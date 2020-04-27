@@ -1,2 +1,3 @@
 # hello-world
-hello world tutorial
+
+beginning to learn how to use github! very good so far!
